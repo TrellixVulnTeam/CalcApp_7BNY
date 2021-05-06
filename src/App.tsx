@@ -1,5 +1,5 @@
 /* eslint no-eval:0 */ 
-import React, {useState, FC} from 'react'
+import {useState, FC} from 'react'
 import words from 'lodash.words'
 import Result from './components/Result'
 import Functions from './components/Functions'
